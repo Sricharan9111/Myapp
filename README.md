@@ -6,7 +6,7 @@
     <title>Hello, World!</title>
 </head>
 <body>
-    <h1>Hello, World!</h1>
+    <h1>Holla, World!</h1>
     <p>This is a simple web application.</p>
 </body>
 </html>
